@@ -26,4 +26,4 @@ const NoPaperFormWidget = () => {
   );
 };
 <div></div>
-export default NoPaperFormWidget;
+export default NoPaperFormWidget; 
